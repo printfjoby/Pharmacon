@@ -1,4 +1,4 @@
-# Pharmacom
+# Pharmacon
 
 This is a digital prescription system in which doctor can prescribe medicines digitally. Each prescription will have an unique prescription Id, pharmasist uses this Id to view the prescription.<br/>
 
