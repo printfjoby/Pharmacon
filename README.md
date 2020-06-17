@@ -32,7 +32,8 @@ Administrator have the privilege to verify, view and remove Doctors and Pharmasi
     ![Create Db](/images/createdb.png)<br/>
     Click on Insert Document<br/>
     ![Insert Document](/images/insertdoc.png)</br>
-    Insert `Admin` details<br/>  
+    Insert `Admin` details<br/>
+    ![Add Admin](/images/addadmin.png)<br/>
     ``` 
     {
         "_id": {
@@ -46,8 +47,6 @@ Administrator have the privilege to verify, view and remove Doctors and Pharmasi
         "acc_status": "true"
     } 
     ```
-    <br/>
-    ![Add Admin](/images/addadmin.png)<br/>
 
 5. Allow Network Access by whitelisting IP<br/>
     ![Network Access](/images/networkaccess.png)<br/>
