@@ -9,7 +9,7 @@ const adminLink = (
   </li>
 
   <li className="navbar-item">
-  <Link to="/pharmasistlist" className="nav-link">Pharmasists</Link>
+  <Link to="/pharmasistlist" className="nav-link">Pharmacists</Link>
   </li>
 
   <li className="navbar-item">
@@ -84,7 +84,7 @@ class Navbar extends Component {
       <>
       <ul className="navbar-nav mr-auto">
         <li className="navbar-item">
-        <Link to="/dashboard" className="nav-link">Profile</Link>
+        <Link to="/dashboard" className="nav-link">Dashboard</Link>
         </li>
 
         <GetUserLinks />

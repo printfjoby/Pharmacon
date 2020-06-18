@@ -52,7 +52,7 @@ export default class PharmasistsList extends Component {
 	    return (
 	        <>
 			<div>
-			  <h3 style={{textAlign:"center"}}>Pharmasists List</h3>
+			  <h3 style={{textAlign:"center"}}>Pharmacists List</h3>
 			  <table className="table">
 			    <thead className="thead-light">
 			      <tr>

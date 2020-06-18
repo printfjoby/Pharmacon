@@ -97,8 +97,8 @@ Administrator have the privilege to verify, view and remove Doctors and Pharmasi
 
     ## Application Screenshots
 
-    ### Login Page
-    ![Login](/images/login.png)
+    ### Home Page
+    ![Home](/images/home.png)
 
     ### Register Page
     ![Register](/images/register.png)

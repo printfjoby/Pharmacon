@@ -202,7 +202,7 @@ class Register extends Component {
               <div className="form-group" >
                 <label htmlFor="role">Role: </label>
                 <input type="radio" style={{marginLeft:"20px"}} name="role" value="doctor"  onChange={this.onChange}/> Doctor
-                <input type="radio" style={{marginLeft:"30px"}} name="role" value="pharmasist"  onChange={this.onChange}/> Pharmasist 
+                <input type="radio" style={{marginLeft:"30px"}} name="role" value="pharmasist"  onChange={this.onChange}/> Pharmacist 
                 <span style={{color: "red"}}>{this.state.errors["role"]}</span>
               </div>
               <button type="submit" className="btn btn-lg btn-primary btn-block">
